@@ -1,8 +1,9 @@
 <?php
 function conversaoTemperatura($temp_celsius) {
-    $temp_fahrenheit = 0
+    $temp_fahrenheit = 0;
     
-   
+    //seu código vai aqui
+    
     return $temp_fahrenheit;
 }
 
