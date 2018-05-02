@@ -13,7 +13,8 @@ TC / 5 = (TF - 32 ) / 9
 function conversaoTemperatura($temp_celsius) {
     $temp_fahrenheit = 0;
     
-   
+    //seu código vai aqui
+    
     return $temp_fahrenheit;
 }
 
